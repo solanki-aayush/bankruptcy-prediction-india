@@ -304,8 +304,8 @@ If you use this code or dataset in your research, please cite:
 **Aayush Solanki**  
 MBA — Business Economics (Analytics & Finance)  
 Delhi University  
-📧 aayushsolanki2024@dbe-du.org  
-🔗 [LinkedIn](https://www.linkedin.com/in/aayush-solanki) | [GitHub](https://github.com/YOUR_USERNAME)
+📧 aayushsolanki.work@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aayush-solanki-mbe) | [GitHub](https://github.com/solanki-aayush)
 
 ---
 
