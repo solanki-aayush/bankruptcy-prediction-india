@@ -1,0 +1,9 @@
+model,accuracy,roc_auc,f1_score,cross_val_mean
+XGBoost,0.981,0.9784,0.93,0.9375
+Random Forest,0.9747,0.9939,0.91,0.9568
+XGBoost [PCA],0.981,0.9826,0.83,0.8655
+Random Forest [PCA],0.9747,0.9847,0.81,0.8751
+LSTM,0.962,0.98,0.88,
+KNN [PCA],0.9684,0.9957,0.89,0.8879
+KNN,0.9367,0.9395,0.76,0.8414
+Logistic Regression,0.9177,,,
